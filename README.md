@@ -15,3 +15,6 @@ email address
 
 
 To execute the application, download and install eclipse on your system and copy both the files in the same folder and run it.
+Following output will be obtained.
+
+![](ss.png)
