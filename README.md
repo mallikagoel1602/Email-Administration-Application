@@ -12,3 +12,6 @@ The Email Admnistration application does the following:
 email address
 
 5. Have get methods to display the name, email, and mailbox capacity
+
+
+To execute the application, download and install eclipse on your system and copy both the files in the same folder and run it.
